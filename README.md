@@ -21,7 +21,6 @@ Je suis un jeune développeur en fin de formation, motivé à appliquer mes comp
 
 ## 📈 Mon Activité de Codage (Wakatime)
 
-*Pour que ces statistiques s'affichent, assurez-vous que votre profil Wakatime est public et que vous avez activé le badge sur votre dashboard Wakatime.*
 
 [![wakatime](https://wakatime.com/badge/user/adc73252-e643-4926-9070-250132f06eef.svg)](https://wakatime.com/@adc73252-e643-4926-9070-250132f06eef)
 

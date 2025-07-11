@@ -22,7 +22,7 @@ Je suis un jeune développeur en fin de formation, motivé à appliquer mes comp
 ## 📈 Mon Activité de Codage (Wakatime)
 
 
-[![wakatime](https://wakatime.com/badge/user/adc73252-e643-4926-9070-250132f06eef.svg)](https://wakatime.com/@adc73252-e643-4926-9070-250132f06eef)
+[![wakatime](https://wakatime.com/badge/user/adc73252-e643-4926-9070-250132f06eef/project/8955825f-9042-4c24-9f82-57c33547ed6c.svg)](https://wakatime.com/badge/user/adc73252-e643-4926-9070-250132f06eef/project/8955825f-9042-4c24-9f82-57c33547ed6c)
 
 ---
 

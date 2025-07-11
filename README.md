@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # Leonce OROU AWA - Développeur Web Junior
 
 Bienvenue sur mon profil GitHub ! Je suis **Leonce OROU AWA**, un développeur web junior passionné par la création de solutions web et mobiles intuitives et performantes. Actuellement en fin de Licence en Génie Logiciel à l'IFRI-Calavi, je suis constamment en quête de nouveaux défis techniques et d'opportunités de collaboration.
@@ -8,6 +8,22 @@ Bienvenue sur mon profil GitHub ! Je suis **Leonce OROU AWA**, un développeur w
 ## 🚀 À Propos de Moi
 
 Je suis un jeune développeur en fin de formation, motivé à appliquer mes compétences et à évoluer dans le monde de l'entreprise. Ma démarche de développement est toujours structurée par une réflexion préalable : cahier des charges, modélisation, et logique métier claire. Rigoureux, autonome et curieux, j'aime apprendre et relever des défis pour créer des applications utiles et accessibles.
+
+---
+
+## 📊 Mes Statistiques GitHub
+
+[![Votre profil GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orou18&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Orou18)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orou18&layout=compact&theme=radical)](https://github.com/Orou18)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Orou18&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 📈 Mon Activité de Codage (Wakatime)
+
+*Pour que ces statistiques s'affichent, assurez-vous que votre profil Wakatime est public et que vous avez activé le badge "Last 7 days" ou "All time" sur votre dashboard Wakatime.*
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Orou18&layout=compact&theme=radical&hide_progress=true)](https://wakatime.com/@Orou18)
 
 ---
 
